@@ -486,13 +486,13 @@ pnpm hardhat compile
 pnpm hardhat deploy
 ```
 
-![Screenshot_7](https://github.com/user-attachments/assets/5bd619c2-2536-430f-9388-0f588756af58)
+![image](https://github.com/user-attachments/assets/5be6eed9-7db2-4985-a2cc-95c76c9f5f88)
 
 Replace 0x... with GreetingWithWorld contract deployed at
 ```console
 pnpm hardhat get-greeting --contract 0x...
 ```
-![Screenshot_8](https://github.com/user-attachments/assets/b3a2439a-31bd-401b-9821-97aeebe82349)
+![image](https://github.com/user-attachments/assets/d2b1aba7-71a2-4160-bc69-9471e009eab1)
 
 ### Check your address in explorer
 https://blockscout.dev.thefluent.xyz/
